@@ -1,4 +1,4 @@
-# 2Rads.github.io
+# ranjotsd.github.io
 
 A website to show projects I've made:
   A flappy birds game with a neural network
